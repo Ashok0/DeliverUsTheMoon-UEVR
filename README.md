@@ -11,6 +11,7 @@ Delete any previous UEVR profiles for this game.
 3. By default, the Astrotool PDA is attached to your left arm.  If you wish to use the Astrotool PDA with a fixed camera, open MoonMan.lua and set line 6 to: local FLOATING_HANDS = false
 
 ## Features
+* New first person perspective where environment is viewed through astronaut visor.
 * 6DOF motion controls with floating hands.  The Astrotool PDA can be viewed on your left arm and the flashlight is attached to your right hand.
 * Roomscale movement.
 * UI hidden for improved VR immersion.
