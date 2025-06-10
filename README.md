@@ -16,7 +16,7 @@ Delete any previous UEVR profiles for this game.
 * 6DOF motion controls with floating hands.
 * The Astrotool PDA can be viewed on your left arm and the flashlight is attached to your right hand.
 * Roomscale movement.
-* UI hidden for improved VR immersion.
+* Reticule hidden for improved VR immersion.
 * Camera fixes for puzzles, menus, cutscenes, Zero-G, and ASE robot control.
 * Third person camera for cutscenes and climbing.
 * Hold LT to activate cursor for solving puzzles.
