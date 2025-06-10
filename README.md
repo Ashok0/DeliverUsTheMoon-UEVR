@@ -39,7 +39,8 @@ Delete any previous UEVR profiles for this game.
 * **B**: Exit / Zero-G Move Down
 
 ## Known Issues
-* If you have issues with the cursor being offset from the world space, recalibrate your height in the UEVR overlay and it should work properly. 
+* If you have issues with the cursor being offset from the world space, recalibrate your height in the UEVR overlay and it should work properly.
+* Astrotool D-Pad controls are rotated.  UP/DOWN navigates left and right and LEFT/RIGHT navigates up and down the PDA menu. 
 
 ## Credits
 Special thanks to Praydog and Jbusfield for their support while developing this VR mod!
