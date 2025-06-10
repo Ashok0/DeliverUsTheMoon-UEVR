@@ -8,7 +8,7 @@ Delete any previous UEVR profiles for this game.
 
 1. Get the latest release zip and click "Import Config" in UEVR, then browse to the zip and click it.
 2. For hiding the cursor, copy the optional PAK file to: C:\Program Files (x86)\Steam\steamapps\common\Deliver Us The Moon\MoonMan\Content\Paks
-3. By default, the Astrotool PDA is attached to your left arm.  If you wish to use the Astrotool PDA with a fixed camera, open MoonMan.lua and set line 6 to: local FLOATING_HANDS = false
+3. By default, the Astrotool PDA is attached to your left arm.  If you wish to use the Astrotool PDA with a fixed camera, open MoonMan.lua and set line 6 to: **local FLOATING_HANDS = false**
 
 ## Features
 * First person support for full campaign.
