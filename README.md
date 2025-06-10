@@ -32,7 +32,7 @@ RS: Camera
 RS (Dn): Flashlight
 System: Activate Astrotool
 Menu: Pause Menu
-LS + Dpad (Right Thumbrest): Navigate Astrotool 
+LS + Dpad (Right Thumbrest): Navigate Astrotool
 X: Interact
 Y: Control ASE
 A: Jump / Zero-G Move Up
