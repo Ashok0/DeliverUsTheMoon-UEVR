@@ -22,21 +22,21 @@ Delete any previous UEVR profiles for this game.
 * Hold LT to activate cursor for solving puzzles.
 
 ## Controls
-* LT: Sprint / Show Cursor
-* LB: Zero-G Roll Left
-* RT: Zoom / Fire / Scan
-* RB: Zero-G Roll Right
-* LS: Move
-* LS (Dn): Sprint
-* RS: Camera
-* RS (Dn): Flashlight
-* System: Activate Astrotool
-* Menu: Pause Menu
-* LS + Dpad (Right Thumbrest): Navigate Astrotool
-* X: Interact
-* Y: Control ASE
-* A: Jump / Zero-G Move Up
-* B: Zero-G Move Down
+* *LT*: Sprint / Show Cursor
+* *LB*: Zero-G Roll Left
+* *RT*: Zoom / Fire / Scan
+* *RB*: Zero-G Roll Right
+* *LS*: Move
+* *LS (Dn)*: Sprint
+* *RS*: Camera
+* *RS (Dn)*: Flashlight
+* *System*: Activate Astrotool
+* *Menu*: Pause Menu
+* *LS + Dpad (Right Thumbrest)*: Navigate Astrotool
+* *X*: Interact
+* *Y*: Control ASE
+* *A*: Jump / Zero-G Move Up
+* *B*: Zero-G Move Down
 
 ## Known Issues
 * If you have issues with the cursor being offset from the world space, recalibrate your height in the UEVR overlay and it should work properly. 
